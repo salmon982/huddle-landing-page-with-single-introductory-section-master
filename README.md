@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Responsive flexbox landing page](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Responsive flexbox landing page](https://www.frontendmentor.io/solutions/responsive-flexbox-landing-page-13xzfTl6mM)
+- Live Site URL: [Live Site](https://responsive-huddlelanding-page.netlify.app/)
 
 ## My process
 
